@@ -1,2 +1,8 @@
 node_modules
 **/input.txt
+**/cargo.lock
+**/target
+**/dist
+**/build
+**/*.json
+**/*.exe
